@@ -1,1 +1,1 @@
-# kinect_mower
+must install libfreenect, openGL, glut, and libusb
